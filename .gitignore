@@ -1,2 +1,6 @@
 # Google App Engine generated folder
 appengine-generated/
+
+# Ignore files with extension `.class` & `.exe`
+*.class
+*.exe
